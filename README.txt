@@ -1,0 +1,1 @@
+MONO LINK güncel site paketi. ZIP'i açın ve içindeki index.html ve tüm .webp dosyalarını GitHub depo ana dizinine yükleyin. Mevcut index.html dosyasını değiştirin. Render otomatik yayına alır. Yeni görseller MONO LINK markalı temsili tasarımlardır; QR kodlar işlevsel değildir. Fiyatlar önceki sitedeki haliyle korunmuştur.
